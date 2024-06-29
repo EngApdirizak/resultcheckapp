@@ -1,0 +1,13 @@
+admin login
+
+
+username = abdi
+password = abdi2003
+
+
+student login
+
+
+username = 4775
+
+password = 5577
