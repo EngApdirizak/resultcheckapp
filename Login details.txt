@@ -1,0 +1,13 @@
+Student
+
+URL: /
+username: student1
+reg no: Kws/M/001
+
+Admin
+URL: /admin
+username: admin
+password: admin123
+
+
+make sure you edit config.php file with your Database credentials...

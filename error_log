@@ -1,0 +1,7 @@
+[19-Aug-2020 18:10:11 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'kelseywe_result'@'localhost' (using password: YES) in /home/kelsiaih/public_html/projects/resultchecker/config.php on line 7
+[19-Aug-2020 18:25:16 America/New_York] PHP Notice:  Undefined index: name in /home/kelsiaih/public_html/projects/resultchecker/view-result.php on line 17
+[11-Dec-2020 16:10:34 America/New_York] PHP Notice:  Undefined index: name in /home/kelsiaih/public_html/resultchecker/view-result.php on line 17
+[11-Dec-2020 22:57:59 America/New_York] PHP Notice:  Undefined index: name in /home/kelsiaih/public_html/resultchecker/view-result.php on line 17
+[01-Jul-2021 13:43:58 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kelsiaih_resultchecker'@'localhost' (using password: YES) in /home/kelseywe/public_html/resultchecker/config.php on line 7
+[01-Jul-2021 13:43:59 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kelsiaih_resultchecker'@'localhost' (using password: YES) in /home/kelseywe/public_html/resultchecker/config.php on line 7
+[01-Jul-2021 13:43:59 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'kelsiaih_resultchecker'@'localhost' (using password: YES) in /home/kelseywe/public_html/resultchecker/config.php on line 7
